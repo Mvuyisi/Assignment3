@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="studentSetMod:war">
+    <output-path>$PROJECT_DIR$/studentSetMod/target</output-path>
+    <root id="archive" name="studentSetMod-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="studentSetMod:war exploded" />
+    </root>
+  </artifact>
+</component>

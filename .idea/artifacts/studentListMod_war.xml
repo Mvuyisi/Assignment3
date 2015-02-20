@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="studentListMod:war">
+    <output-path>$PROJECT_DIR$/studentListMod/target</output-path>
+    <root id="archive" name="studentListMod-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="studentListMod:war exploded" />
+    </root>
+  </artifact>
+</component>

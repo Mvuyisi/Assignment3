@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/studentListMod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/studentListModule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/studentMapMod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/studentMapModule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/studentSetMod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/studentSetModule" charset="UTF-8" />
+  </component>
+</project>
